@@ -114,7 +114,7 @@ def toggle_dark_mode():
     configure_task_list()
 
 window = tk.Tk()
-window.title("Task Manager")
+window.title("Python Task Manager - Made by anormalpersonsalt")
 
 style = ThemedStyle(window)
 style.set_theme("arc")
